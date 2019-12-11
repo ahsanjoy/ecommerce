@@ -45,7 +45,7 @@ h2{
 h3{
 	text-align: center;
 	color: #fff;}
-	.banner{ overflow:hidden;
+.banner{ width:100%;
 	}
 .image img{
 	width:100%;
